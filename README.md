@@ -1,33 +1,47 @@
-## Howdy, I'm Ana 👋
+# Howdy, I'm Ana 👋
 
+🎓 Senior at California State University San Bernardino, studying Computer Science and Data Science
+
+🔭 Aspiring Software Engineer and Machine Learning and Sustainability Enthusiast
+
+**About Me**  
 Anyone who knows me knows that I believe life is measured not by its length, but by its depth and the legacy of principles we leave behind. This belief stems from my love of organization and the desire to structure each part of my life with purpose and direction!
+I’m an Entry-Level software engineer who loves tackling real-world problems through problem-solving! I’m passionate about data science, web development, and cybersecurity, and I enjoy building projects that help project society forward!
 
-I’m an extrovert who wears my heart on my sleeve, with nothing to hide. My faith and church community have instilled confidence and a deeper sense of purpose in life. They’ve taught me that true happiness isn't found in material success but in spiritual, mental, and physical well-being. This belief shapes my perspective that life is temporary but should be lived fully. In my career, where male introversion dominates, I strive to bring energy, encourage others to step out of their comfort zones, and practice resilience over just knowing everything.
+- 🌱 I’m currently working on: Honors Thesis, Decoding Speech from Neural Data using Deep Learning
+- ⚡ Fun fact: Aside from all the heavy software-related activities, I enjoy participating in outdoor recreational activities such as pickleball and snowboarding!
 
-My work reflects a strong belief in organization and structure, from backend integrations to hackathon wins. At FullyHacks, I won the Entertainment Track with a creative, well-planned project. In my current role, I developed a feedback feature in a customer admin frontend. I also applied a structured approach to building a machine-learning model that analyzed and classified regional safety based on census data, demonstrating my ability to organize complex tasks into step-by-step solutions. These are just a few combinations of how I approach every challenge.
+**Technologies & Tools** 
 
-Aside from all the heavy software-related activities, I enjoy participating in outdoor recreational activities such as pickleball and snowboarding!
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=ffffff)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)&nbsp;
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=ffffff)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=ffffff)
 
-I'm set to graduate in the Spring of 2025 (time flies!) from CSUSB, with a B.S. in Computer Science and Engineering and a minor in Data Science; Go Yotes! My goal is to become a software engineer/software developer building and designing products for the good of society. If you are just as passionate about innovation, or just looking to collaborate on meaningful projects, feel free to look around!
+### 🎯 Featured project: AI-Powered Chat Summarization
+- What We Did: Structured action-based conversations between agents and customers
+- Tools: Python, Google Collab, Gemini, Llama
+- Result: 86% accuracy, which provided insights that helped guide data-driven improvements in customer service.
+- Curious? See the full project here: [ASAPP Studio](https://github.com/megaDeathChav/asapp-project)
 
 
-## Contact information:
-sos.03.ana@gmail.com
+**GitHub Stats**  
 
-www.linkedin.com/in/ana-sordo
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=megaDeathCHav&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=megaDeathChav&layout=compact&theme=radical)
 
-## 🎯 featured project: AI-Powered Chat Summarization
-What We Did: Structured action-based conversations between agents and customers
-Tools: Python, Google Collab, Gemini, Llama
-Result: 86% accuracy, in which it provided insights that helped guide data-driven improvements in customer service.
-Curious? See the full project here: https://github.com/megaDeathChav/asapp-project
+---
 
+**Let's Connect!**
+
+
+ If you are just as passionate about innovation, or just looking to collaborate on meaningful projects, I'd love to connect with you!
  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/ana-sordo)  
+[![Email](https://img.shields.io/badge/Email-sos.03.ana@gmail.com-0078D4?logo=microsoft-outlook&logoColor=ffffff)](mailto:sos.03.ana@gmail.com)
 
-## 🛠 tech stack:
-Languages: Python, c++
-Data Science: Pandas, NumPy, scikit-learn, TensorFlow
-Web Dev: HTML, CSS, JavaScript (basic), Node.js
-Tools: Jupyter Notebooks, Google Colab, Git, GitHub
-Databases: SQL, MySQL, MongoDB
- 
+---
+
+
+
