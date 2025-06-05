@@ -8,7 +8,7 @@
 Anyone who knows me knows that I believe life is measured not by its length, but by its depth and the legacy of principles we leave behind. This belief stems from my love of organization and the desire to structure each part of my life with purpose and direction!
 I’m an Entry-Level software engineer who loves tackling real-world problems through problem-solving! I’m passionate about data science, web development, and cybersecurity, and I enjoy building projects that help project society forward!
 
-- 🌱 I’m currently working on: Honors Thesis, Decoding Speech from Neural Data using Deep Learning
+- 🌱 I’m currently working on: Netflix-type movie application! [react-movie-app](https://github.com/megaDeathChav/react-movie-app) 
 - ⚡ Fun fact: Aside from all the heavy software-related activities, I enjoy participating in outdoor recreational activities such as pickleball and snowboarding!
 
 **Technologies & Tools** 
